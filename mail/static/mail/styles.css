@@ -1,0 +1,14 @@
+textarea {
+    min-height: 400px;
+}
+
+#email-link {
+    margin: 1px;
+    padding: 1%;
+    transition: 0.3s ease;
+}
+
+#email-link:hover {
+    border: 1px solid;
+    text-emphasis-color: aliceblue;
+}
